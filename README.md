@@ -28,7 +28,7 @@ The application mainly consists of three features:
 
 ## Video Link of Working Model
 
-[Project Demonstration](https://youtube.com)
+[Project Demonstration](https://www.youtube.com/watch?v=jr-NdMzREXg)
 
 
 ## Getting Started
